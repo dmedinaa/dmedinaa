@@ -24,6 +24,5 @@ Atualmente, estou construindo meu portfólio e aberto a novas oportunidades e de
 
   📫 Vamos conversar!
 
-* **LinkedIn:** [https://www.linkedin.com/in/danilo-medina
-fernandes-706088314/ ]
+* **LinkedIn:** [https://www.linkedin.com/in/danilo-medina-fernandes-706088314/ ]
 * **E-mail:** [dddmedina13@gmail.com]
