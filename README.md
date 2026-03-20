@@ -1,6 +1,6 @@
 # Olá! / Hello! / Bonjour! 👋
 
-Sou o **Danilo Medina**, estudante de Engenharia da Computação e um grande entusiasta de tecnologia e desenvolvimento de software. Meu objetivo é construir soluções que gerem impacto real, sempre buscando evoluir tecnicamente e aplicar a teoria da faculdade na prática.
+Sou o **Danilo Medina**, estudante de Engenharia da Computação e um grande adimirador de tecnologia e desenvolvimento de software. Meu objetivo é construir soluções que gerem impacto real, sempre buscando evoluir tecnicamente e aplicar a teoria da faculdade na prática.
 
 Atualmente, estou construindo meu portfólio e aberto a novas oportunidades e desafios profissionais na área de tecnologia!
 
